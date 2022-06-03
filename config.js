@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Lời tỏ tình của tôi",
     introTitle: 'Nguyễn Bích Duyên',
     introDesc: `mai ngày anh sẽ nấu cơm
-   Học kho cá vs thom ))`,
+   Học kho cá vs thom :))`,
     btnIntro: '^^HiHi^^',
     title: 'cứ trả lời thật lòng nha🥰',
     desc: ' Chưa được sự cho phép mà đã tự ý thích em.
